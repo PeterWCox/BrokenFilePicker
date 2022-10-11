@@ -8,11 +8,14 @@ export interface IHelloWorldProps {
 export const HelloWorld = (props: IHelloWorldProps) => {
   return (
     <div>
+
+      <h1>FilePicker Testing</h1>
+
       <FilePicker
         context={props.context}
         buttonIcon="FileImage"
         buttonLabel="Select file"
-        hidden
+        // hidden
         hideWebSearchTab
         hideStockImages
         hideOrganisationalAssetTab
