@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "broken-file-picker-client-side-solution",
+    "id": "3385480e-098d-42bb-bc67-232cabd226ab",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "broken-file-picker description"
+      },
+      "longDescription": {
+        "default": "broken-file-picker description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "broken-file-picker Feature",
+        "description": "The feature that activates elements of the broken-file-picker solution.",
+        "id": "f5259486-fe5d-4a0d-bba4-8c2581f06527",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/broken-file-picker.sppkg"
+  }
+}

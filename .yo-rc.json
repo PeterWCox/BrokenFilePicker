@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "broken-file-picker",
+    "libraryId": "3385480e-098d-42bb-bc67-232cabd226ab",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "broken-file-picker",
+    "solutionShortDescription": "broken-file-picker description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
